@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @mcxiaolan
 - 👀 I’m interested in Building website
 
+---
+
 - 👋 Hi, 我是岚天呀
 - 👀 我的兴趣爱好是搭建网站
 
@@ -15,8 +17,8 @@
 My website：
 
 [Blog](https://blog.589000.xyz)
-[Homepage](https://www.589000.xyz)
 
+[Homepage](https://www.589000.xyz)
 
 Contact me：
 
