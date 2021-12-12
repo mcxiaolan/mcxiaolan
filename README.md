@@ -16,9 +16,7 @@
 
 ## My website：
 
-[Blog](https://blog.589000.xyz)
-
-[Homepage](https://www.589000.xyz)
+[Homepage](https://www.589000.xyz) - [Blog](https://blog.589000.xyz) - [Forum](https://forum.589000.xyz)
 
 ## Contact me：
 
