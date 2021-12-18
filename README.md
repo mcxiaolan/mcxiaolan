@@ -16,7 +16,7 @@
 
 ## My website：
 
-[Homepage](https://www.589000.xyz) - [Blog](https://blog.589000.xyz) - [Forum](https://forum.589000.xyz)
+[Homepage](https://www.ltya.top) - [Blog](https://blog.ltya.top) - [Forum](https://forum.ltya.top)
 
 ## Contact me：
 
