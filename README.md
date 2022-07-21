@@ -1,18 +1,5 @@
 - 👋 Hi, I’m @mcxiaolan
-- 👀 I’m interested in Building website
-
----
-
-- 👋 Hi, 我是岚天呀
-- 👀 我的兴趣爱好是搭建网站
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mcxiaolan&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dracula">
-</a>
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcxiaolan&layout=compact">
-</a>
+- 👀 A spam blogger
 
 ## My website：
 
